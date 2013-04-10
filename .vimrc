@@ -1,3 +1,5 @@
+" Based on the talk by Martin Brochhaus
+
 " Automatic reloading of .vimrc
 autocmd! bufwritepost .vimrc source %
 
