@@ -5,6 +5,7 @@ set backspace=indent,eol,start
 set relativenumber
 set number
 set modeline
+set hidden
 colorscheme desert
 
 " Remapping test for escape
